@@ -23,7 +23,7 @@
     "@storybook/builder-vite": "^0.4.0",
     "@storybook/cli": "^6.5.16",
     "@storybook/react": "^6.5.16",
-    "@storybook/testing-library": "^0.0.13",
+    "@storybook/testing-library": "^0.2.0",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
