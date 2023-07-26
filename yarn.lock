@@ -2081,7 +2081,7 @@ prettier-plugin-tailwindcss@^0.1.11:
   integrity sha512-/EKQURUrxLu66CMUg4+1LwGdxnz8of7IDvrSLqEtDqhLH61SAlNNUSr90UTvZaemujgl3OH/VHg+fyGltrNixw==
 
 prettier@^2.7.1:
-  version "2.8.3"
+  version "2.8.8"
 
 progress@^2.0.0:
   version "2.0.3"
