@@ -1,8 +1,9 @@
 {
-  "extends": "tsconfig/nextjs.json",
+  "extends": "../../packages/config/base.tsconfig.json",
   "compilerOptions": {
-    "plugins": [{ "name": "next" }]
+    "rootDir": "src",
+    "declarationDir": "dist",
+    "types": ["vite/client"]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": ["src"]
 }
