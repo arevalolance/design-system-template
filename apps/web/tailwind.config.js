@@ -1,3 +1,1 @@
-// tailwind config is required for editor support
-
-module.exports = require("tailwind-config/tailwind.config.js");
+module.exports = require("ui/tailwind")("web")
